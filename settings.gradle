@@ -1,0 +1,3 @@
+include ':MultiFloatingActionBar'
+include ':app'
+rootProject.name = "MultiFloatingActionBarAndroid"
